@@ -12,4 +12,27 @@ products).
 The company makes a commission from the sellers based on a % of the
 listing price of the products.
 
-## 
+## Objectives
+Please assume that you have been tasked with conducting exploratory data
+analysis for the C2C store company (and it is the first time any analysis of
+their user base is carried out).
+We would like to see from your analysis of the dataset :
+1. A short summary of the top 3 insights you would draw from the
+dataset that you think would benefit the company to be aware of.
+(assuming no previous analysis has ever been carried out on this data)
+2. One actionable recommendation from you for the business to increase
+their revenue from the data analysis carried out.
+
+## Submission Format
+You may use any tool/language of your choice to conduct the analysis and
+any method of sharing the analysis.
+You should assume that the summary and actionable recommendation
+should be in a format digestible by the CEO of the C2C business.
+We request that your submission includes:
+● The summary of insights and the actionable recommendation
+● Any code written to conduct the analysis
+● Any visualisations to aide the analysis
+● Access to the raw analysis
+For example, a submission using a Google Colab notebook containing
+Python inline code, visualisations, raw analysis and a summary is one
+possible option.
