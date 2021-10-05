@@ -8,6 +8,7 @@ France.
 The C2C store is different from a B2C store in that users are both sellers
 (uploading their products) and the buyers (by purchasing other user’s
 products).
+
 The company makes a commission from the sellers based on a % of the
 listing price of the products.
 
@@ -15,11 +16,12 @@ listing price of the products.
 Please assume that you have been tasked with conducting exploratory data
 analysis for the C2C store company (and it is the first time any analysis of
 their user base is carried out).
+
 We would like to see from your analysis of the dataset:
-1. A short summary of the top 3 insights you would draw from the
+1. A short summary of the *top 3 insights* you would draw from the
 dataset that you think would benefit the company to be aware of.
 (assuming no previous analysis has ever been carried out on this data)
-2. One actionable recommendation from you for the business to increase
+2. *One* actionable recommendation from you for the business to increase
 their revenue from the data analysis carried out.
 
 ## Submission Format
