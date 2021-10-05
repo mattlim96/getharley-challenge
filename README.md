@@ -2,7 +2,7 @@
 
 ## Background
 
-The dataset of (6M-0K-99K.users.dataset.public.csv)[https://drive.google.com/file/d/13Jkk4LZh6u9a5hyskXz4g5p0iAEkzqrS/view] is based on an open
+The dataset of [6M-0K-99K.users.dataset.public.csv](https://drive.google.com/file/d/13Jkk4LZh6u9a5hyskXz4g5p0iAEkzqrS/view) is based on an open
 source dataset of registered user profiles on a C2C fashion store based in
 France.
 
