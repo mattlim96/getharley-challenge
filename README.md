@@ -18,10 +18,10 @@ analysis for the C2C store company (and it is the first time any analysis of
 their user base is carried out).
 
 We would like to see from your analysis of the dataset:
-1. A short summary of the *top 3 insights* you would draw from the
+1. A short summary of the **top 3 insights** you would draw from the
 dataset that you think would benefit the company to be aware of.
 (assuming no previous analysis has ever been carried out on this data)
-2. *One* actionable recommendation from you for the business to increase
+2. **One** actionable recommendation from you for the business to increase
 their revenue from the data analysis carried out.
 
 ## Submission Format
