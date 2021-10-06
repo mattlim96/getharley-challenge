@@ -34,6 +34,7 @@ We request that your submission includes:
 2. Any code written to conduct the analysis
 3. Any visualisations to aide the analysis
 4. Access to the raw analysis
+
 For example, a submission using a Google Colab notebook containing
 Python inline code, visualisations, raw analysis and a summary is one
 possible option.
