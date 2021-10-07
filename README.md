@@ -38,11 +38,3 @@ We request that your submission includes:
 For example, a submission using a Google Colab notebook containing
 Python inline code, visualisations, raw analysis and a summary is one
 possible option.
-
----
-
-Please email your response to min@getharley.com within the timeframe
-agreed.
-If anything is unclear about the assignment, please contact us directly as
-soon as possible!
-All the best! :)
